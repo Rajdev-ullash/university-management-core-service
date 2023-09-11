@@ -1,0 +1,45 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Next Level\\Milestone_6\\university-management-core-service-starter\\logs\\winston\\errors\\.859e70821b59f5c8ed334de873a6c0bb1b71f670-audit.json",
+    "files": [
+        {
+            "date": 1692716924575,
+            "name": "D:\\Next Level\\Milestone_6\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-22-08-21-error.log",
+            "hash": "44c32e2212b6318536f02cfe492a5ec356bc252ee4c733e7d9444918b921d7d7"
+        },
+        {
+            "date": 1692944749203,
+            "name": "D:\\Next Level\\Milestone_6\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-25-08-12-error.log",
+            "hash": "ed145342f5e9f431e16d7af43d27af8988f4350662cc3ad153b595cb4c70c233"
+        },
+        {
+            "date": 1692948193914,
+            "name": "D:\\Next Level\\Milestone_6\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-25-08-13-error.log",
+            "hash": "9704840f7e7794e0206a830d27999f6f7cb41106b2531d8fd6908561d0aa1a11"
+        },
+        {
+            "date": 1692951213961,
+            "name": "D:\\Next Level\\Milestone_6\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-25-08-14-error.log",
+            "hash": "5b528859def73972dcc57caab6e1f23f4e9d54a7b9b2ced9297f6ec9333e2dba"
+        },
+        {
+            "date": 1692966243069,
+            "name": "D:\\Next Level\\Milestone_6\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-25-08-18-error.log",
+            "hash": "30e9838fe0bcabbe6eb0f3c53523d4301c96f609a5ecf2be17a028e3eaff2244"
+        },
+        {
+            "date": 1692968629503,
+            "name": "D:\\Next Level\\Milestone_6\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-25-08-19-error.log",
+            "hash": "403f753877463d9c11bac13a04e46d9a5d9aa195b02db6ee0a94691c75680113"
+        },
+        {
+            "date": 1693112564659,
+            "name": "D:\\Next Level\\Milestone_6\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2023-27-08-11-error.log",
+            "hash": "061617d163ee4fd1c322c4f83a34bd06a225d5a1424fcc37cdc7a76bb2a9b7b6"
+        }
+    ],
+    "hashType": "sha256"
+}
